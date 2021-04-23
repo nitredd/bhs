@@ -1,0 +1,9 @@
+Patient
+name:string
+gender:string
+birthdate:date
+address:string
+phone:string
+email:string
+identified:boolean
+deceased:boolean

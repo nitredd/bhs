@@ -1,0 +1,4 @@
+Visit
+started:datetime
+ended:datetime
+patient:references

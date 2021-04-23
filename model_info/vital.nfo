@@ -1,0 +1,4 @@
+Vital
+name:string
+unit:string
+value:decimal
