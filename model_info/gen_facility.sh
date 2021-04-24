@@ -1,2 +1,2 @@
-#!/bin/bash
-readarray -t MYDATA < model_info/facility.nfo ; rails g scaffold ${MYDATA[*]}
+#!/usr/bin/env bash
+$(dirname "${0}")/_gen_generic.sh facility
